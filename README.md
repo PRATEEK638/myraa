@@ -13,6 +13,12 @@ Windows application distribution snapshot.
 
 MYRAA desktop application installer.
 
+## Interface preview
+
+![MYRAA desktop interface](docs/assets/myraa-interface.png)
+
+This screenshot shows a captured prototype session, rather than a new performance or runtime test.
+
 ## Engineering highlights
 
 - MYRAA 1.0.1 Windows installer preserved as a release download
