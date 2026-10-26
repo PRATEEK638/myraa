@@ -48,3 +48,8 @@ I learned a lot by working through this project: reading code, troubleshooting i
 ## Project status
 
 This is a development or study snapshot. Source import and upload checks are separate from runtime validation; the application and model behavior have not been retested as part of preparing this portfolio.
+## Local source snapshot
+
+A source snapshot from a local MYRAA folder is available on branch codex/myraa-source-snapshot-2026-10-26 under the project root. It contains the available TypeScript server, cognition, API hub, and Electron modules. Generated build output, source maps, installer files, local configuration, personal recovery metadata, and binary character assets were not included.
+
+This snapshot is incomplete and is not represented as a reproducible build: the local folder lacks its package manifest and multiple imported source modules. No build or runtime validation is claimed. Supply the missing source files and dependency manifest before treating this as a runnable source release.
