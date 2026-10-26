@@ -1,0 +1,207 @@
+{
+  "recoveredSources": [
+    {
+      "file": "server.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "d9d23cd4efaf249be8b40e74f62537b193e6465bbab33a8b319978e7e1fb9c1f",
+      "characters": 179015
+    },
+    {
+      "file": "server_memory.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "c6fe0484f1a477991f442105245ab391bcb1069700f3dde49dd942f1e621a78b",
+      "characters": 9614
+    },
+    {
+      "file": "server_paths.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "bb605e70bbedf969395d26ed4391b91f7e20d39301409ddf6e2bb51e8c491777",
+      "characters": 3207
+    },
+    {
+      "file": "cognition/attentionEngine.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "50583831f6542509b3355938aa6c0b963c0d4b9fc7b01215b3659b947bf140e7",
+      "characters": 6316
+    },
+    {
+      "file": "cognition/config.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "57d367f95dfbaac52faf7a793e4653aec17ff7381cf61927535a04abba30426e",
+      "characters": 3276
+    },
+    {
+      "file": "cognition/critic.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "a46e3623cbbecf31b6d54e5f45fb6a6508da3dbdce389a090d51be5165f91c46",
+      "characters": 1294
+    },
+    {
+      "file": "cognition/desktopPerception.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "1ba7c4333034aba443340870fbf3db39b6e93bc77cf2eb210530c9276be028c8",
+      "characters": 6915
+    },
+    {
+      "file": "cognition/eventBus.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "13a55108ed10338ae059d3145bbd6745a5e2694e007a37de400f7378b875d60b",
+      "characters": 1797
+    },
+    {
+      "file": "cognition/goalManager.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "e795e2c8c68bfbe71fe97e79dc3787b38217fb6f57f754c27bb2c62adb736b16",
+      "characters": 9162
+    },
+    {
+      "file": "cognition/initiativeEngine.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "658708acd70ae770e99b521ac18f34d2064a854d2e0ead5603c6c751ec84d48c",
+      "characters": 4679
+    },
+    {
+      "file": "cognition/autonomousMind.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "f43048d8dae7af1ed6dd571158382fb25e2c9965c0a366f5c94b984c02dbef21",
+      "characters": 14307
+    },
+    {
+      "file": "cognition/conversationContinuationEngine.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "a01676fa5d89b96fc20c15e8242195116ad8a12944d729c3dffc4d4c7488472b",
+      "characters": 5625
+    },
+    {
+      "file": "cognition/curiosityEngine.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "1385714a20bab1b72c8f5ad0033003efd510c4b5a9ef7035660ef4b93da24dd0",
+      "characters": 817
+    },
+    {
+      "file": "cognition/socialInitiativeEngine.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "fa5602d4f1d5c9c41e94f8634b34516224acfd33f57093ec0d0c8a0c050a772d",
+      "characters": 4787
+    },
+    {
+      "file": "cognition/speechOrchestrator.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "923ccb6036ff202968babc21fdac01cd721213033b36eb4225c9f6c6705d203c",
+      "characters": 2328
+    },
+    {
+      "file": "cognition/modelRouter.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "647609a4713b2cf32d3f75d9fc7416ad3fbfd32993a78f773ff3a0424b9f469a",
+      "characters": 4880
+    },
+    {
+      "file": "cognition/planner.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "82f32a16907a64160e43123c755830065b74deb0c1d5618752e1d81641117dcf",
+      "characters": 3275
+    },
+    {
+      "file": "cognition/proactivePresence.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "8dbc89a77b9ab6c00854ec2ba365a20cc06c2d339c08694d63131491488faa7e",
+      "characters": 1475
+    },
+    {
+      "file": "cognition/runtime.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "62c90e5f7c0c53e838eae81cfc740df341c1c45f87241fd342f2b717a981794a",
+      "characters": 13000
+    },
+    {
+      "file": "cognition/situationModel.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "8f61f4083579b4175f73c3e7e3351dc29ee3e617cd278b6a6c854cde268730db",
+      "characters": 7380
+    },
+    {
+      "file": "cognition/skillManager.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "7ade8abcb1543f9271538a9e81b927a84a8f70d56525c1f9bb32be87a059aeff",
+      "characters": 5802
+    },
+    {
+      "file": "cognition/structuredMemory.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "bab500f939c757641058c486133da4eec1bb1aefa90266883edab9ad49f520d0",
+      "characters": 11195
+    },
+    {
+      "file": "cognition/safety.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "4e5c052122a943fc44712f44794b4244b0263c3492520f85474f38d8d44c7b7d",
+      "characters": 2864
+    },
+    {
+      "file": "cognition/toolExecutor.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "f7bbf08f898ea99c7ed70d956e1114e093fc4cde45a29aa599a038aa33922d13",
+      "characters": 7247
+    },
+    {
+      "file": "cognition/toolRegistry.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "275f3e95a839acbf732e9ac208f2a9b85d4985961e2a26b3524270d08d928aff",
+      "characters": 4168
+    },
+    {
+      "file": "server_screenVision.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "206b024b7f60777534057d4e57fa7eec1fdd98ae19b80f15517709263aea5eb5",
+      "characters": 11433
+    },
+    {
+      "file": "api_hub/adapterRegistry.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "25f3ac6fbf1dc398bb490f4a89f8765bdae88b3c98e831da2d28881760121b4d",
+      "characters": 4176
+    },
+    {
+      "file": "api_hub/healthChecker.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "e4d52349c968e0e50f586afc1779ff0dfcdd21b64cd55e571735af326dee1a73",
+      "characters": 3047
+    },
+    {
+      "file": "api_hub/adapterExecutor.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "ae20671e6d278deedad6b53f18db42511d2409f49ee264dc40a98a6fbc645d18",
+      "characters": 7910
+    },
+    {
+      "file": "api_hub/catalogueImporter.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "66a2bda13ffebfff2df0b8a466ac447eac16bf403cbaf803e764e1e0db604298",
+      "characters": 4891
+    },
+    {
+      "file": "api_hub/builtInAdapters.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "508f30c5967b053c9580648ef8d9a7a4948b4e515148e1c4b62f9f88b103a07b",
+      "characters": 4587
+    },
+    {
+      "file": "api_hub/registry.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "a600cd1dc3f2a8bf4cd7534ea79b522807a6ed76af61a274698d61fe91593d54",
+      "characters": 9071
+    },
+    {
+      "file": "api_hub/service.ts",
+      "origin": "installed dist/server.cjs.map sourcesContent",
+      "sha256": "c5ccc90b9919a82e0680147eb57304f1ffa5927c328997cc67908c7d1d0016d0",
+      "characters": 4582
+    }
+  ],
+  "missingOriginalSource": [
+    "React/TypeScript frontend before bundling",
+    "Python desktop agent source"
+  ],
+  "retainedRuntime": "Installed MYRAA.exe and resources/agent/myraa-agent.exe"
+}

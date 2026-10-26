@@ -2,16 +2,24 @@
 
 # Myraa
 
-Windows application distribution snapshot.
+Windows desktop companion application.
 
-**Focus:** Software distribution / project archive  
-**Stack:** Windows · Application packaging
+**Focus:** Desktop assistant / project archive  
+**Stack:** Windows · Electron · TypeScript · Python agent (original source unavailable)
 
 [LinkedIn](https://www.linkedin.com/in/prateek-sharma-97a064296/) · [Portfolio projects](docs/PORTFOLIO.md)
 
 ## Project overview
 
-MYRAA desktop application installer.
+This repository preserves the MYRAA 1.0.1 Windows installer and a partial source recovery from the installed application. The installer remains available in [Releases](https://github.com/PRATEEK638/myraa/releases/tag/local-import-2026-10-10).
+
+## Source recovery
+
+The `source_recovery/` directory contains TypeScript, Electron, and API hub files extracted from the installed distribution's source maps. This is a partial recovery snapshot, not the original complete development project.
+
+The original React/TypeScript frontend source and Python desktop-agent source were not present in the recovered source map. Build output, dependencies, and runtime media/model assets are omitted. The supplied files do not include enough project metadata to establish a reproducible build, and no build or runtime test is claimed for this snapshot.
+
+No license file was present in the recovered project. This repository does not assert an open-source license for the recovered files; rights and third-party attribution should be confirmed before redistribution or reuse.
 
 ## Interface preview
 
@@ -19,23 +27,13 @@ MYRAA desktop application installer.
 
 This screenshot shows a captured prototype session, rather than a new performance or runtime test.
 
-## Engineering highlights
-
-- MYRAA 1.0.1 Windows installer preserved as a release download
-- Installer size and SHA-256 digest documented
-- Distribution snapshot; application source is not present in this collection
-
-## What I learned
-
-I learned a lot by working through this project: reading code, troubleshooting integrations, comparing approaches, and understanding how individual components become a complete application. The main takeaways were:
-
-- Understanding how a packaged installer is distributed separately from source.
-- Using versioned releases and checksums to document an application artifact.
-
 ## Repository map
 
 | Path | Contents |
 |---|---|
+| `source_recovery/` | Partial source-map recovery, installed dependency metadata, and recovery manifest |
+| `docs/` | Existing portfolio notes and screenshots |
+| GitHub Releases | MYRAA 1.0.1 Windows installer and checksum |
 
 ## Downloads
 
@@ -47,4 +45,4 @@ I learned a lot by working through this project: reading code, troubleshooting i
 
 ## Project status
 
-This is a development or study snapshot. Source import and upload checks are separate from runtime validation; the application and model behavior have not been retested as part of preparing this portfolio.
+The installer is preserved and partial source files are now included for review. This source recovery has not been rebuilt or runtime-tested.
